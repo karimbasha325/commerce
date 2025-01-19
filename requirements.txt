@@ -1,2 +1,2 @@
-black==24.10.
+black==24.10
 Django==5.1.3
