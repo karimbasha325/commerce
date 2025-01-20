@@ -3,6 +3,6 @@
 This app focuses to connect the retail stores with our application
 
 Tech stack: 
-  * python3
+  * python
   * Django  
   * Django rest framework
